@@ -1,0 +1,137 @@
+---
+title: "Notes"
+output: html_document
+---
+
+The document includes the notes for my website.
+
+# Learning Blogdown
+
+---
+
+# Example blogs
+
+Daniel Soper
+ - Website that includes dozens of statistics calculators (e.g., regression, power analysis, mediation, etc.)
+ - https://www.danielsoper.com/statcalc/default.aspx
+
+Annie Lyu Blog
+ - Includes blog, Shiny apps, Comments
+ - https://annielyu.com/#shiny
+
+Antoine Soetewey
+ - Blog about statistics
+ - https://statsandr.com/
+
+Wolfgang Viechtbauer's site for Metafor()
+ - Incudes tutorials and example problems for meta-analysis using metafor
+ - https://www.metafor-project.org/doku.php/metafor
+ 
+# Task List
+
+## [ ] Add Google Analytics dashboard
+
+https://statsandr.com/blog/files/google-analytics-dashboard
+
+---
+
+# R: Blog post ideas
+
+## * [ ] Web Scraping in R with rvest [Tutorial]
+
+1. Use this app to learn web scraping:
+    https://www.dataquest.io/blog/web-scraping-in-r-rvest/
+  
+2. Scrape information from these sites:
+    - Research Gate: Questions related to Quantitative Research Methods 
+      (https://www.researchgate.net/topic/Quantitative-Research-Methods)
+      
+```{r}
+# Open post
+file.edit("~/Documents/Website_Kiet/KietWebsite/content/post/2021-03-03-webscraping-with-rvest/index.Rmd")
+```
+
+
+---
+
+## * [ ] API Tutorial: Getting Started with APIs in R
+
+https://www.dataquest.io/blog/r-api-tutorial/
+
+---
+
+## [ ] Data wrangling with Tidyverse [Tutorial]
+
+https://r4ds.had.co.nz/transform.html
+
+---
+
+## [ ] Data visulation with ggplot [Tutorial]
+
+https://r4ds.had.co.nz/data-visualisation.html
+
+---
+
+## [ ] EDA strategies [Tutorial]
+
+Methods for EDA (Variation, missing values, covariation, patterns, plots)
+https://r4ds.had.co.nz/exploratory-data-analysis.html
+
+---
+
+## [ ] EDA using DataExplorer() [Tutorial]
+
+https://youtu.be/ssVEoj54rx4
+
+---
+
+## [ ] EDA using summarytools(), explore(), and dataMaid()
+
+https://towardsdatascience.com/modern-exploratory-data-analysis-29fdbecec957
+
+---
+
+## [ ] How to Put your data in an R package [Tutorial]
+
+https://grasshoppermouse.github.io/2017/10/18/put-your-data-in-an-r-package/
+
+---
+
+## [ ] Graph showing differing rates of LGBTQ identification by cohort (recreate)
+
+https://www.reddit.com/r/dataisbeautiful/comments/lui0cl/oc_percentage_of_americans_identifying_as_lesbian/
+
+---
+
+## [ ] ShinyApp for Mediation Power and N Computations
+
+Example by David A. Kenny
+ - https://davidakenny.shinyapps.io/MedPower/
+ 
+---
+
+## [ ] ShinyApp examples
+
+https://shiny.rstudio.com/gallery/
+
+---
+
+## [ ] Look for possible mediation tools to create based on David Kenny's Website
+
+http://davidakenny.net/cm/mediate.htm#DI
+
+--------------------------------------------------------------------------------------------------------------------
+
+
+# Python: Blog post ideas
+
+## [ ] Create API from any website
+
+ - Create an API in Python from any website: https://betterprogramming.pub/autoscraper-and-flask-create-an-api-from-any-website-in-less-than-5-minutes-3f0f176fc4a3
+ 
+ 
+## [ ] Create API from websites with AutoScraper() and Flask()
+
+https://betterprogramming.pub/autoscraper-and-flask-create-an-api-from-any-website-in-less-than-5-minutes-3f0f176fc4a3
+ 
+ 
